@@ -3,14 +3,15 @@
 A machine learning-based recommendation system that suggests TED Talks based on user preferences and content similarity.
 
 🛠️ Technologies Used
-Python
-Pandas, NumPy
-Scikit-learn
+ Python
+ Pandas, NumPy
+ Scikit-learn
 
 📊 Features
-Data Preprocessing
-Content-Based Recommendation
-Personalized Suggestions
+ Data Preprocessing
+ Content-Based Recommendation
+ Personalized Suggestions
 
 👨‍💻 Author
+
 Ritesh Yadav Vishal Sharma B.Tech CSE | IILM Greater Noida
